@@ -1,0 +1,541 @@
+ [
+  {
+    "name": "Regular Fit Linen-blend shirt",
+    "price": 1999,
+    "category": "Shirt",
+    "brand": "US.POLO",
+    "relevance":3,
+    "color": "Beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2F14%2F4814dcc45c22dd6796b95f3e95956a051b897cd2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe7%2F81%2Fe781a3ab6b11467362bd212c0504e4e44ef598b5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc0%2Fa9%2Fc0a98f072b5b57ca85ac4b93d061ae341ba06e41.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Muslin resort shirt",
+    "price": 1999,
+    "category": "Shirt",
+    "brand": "US.POLO",
+    "relevance":3,
+    "color": "Cream",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2Fa4%2F9ea49af29985769daa3c78bd3045cf2b294c8171.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shirts_casual%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F46%2F50%2F4650b14c343a62370e3ccb2b7dad9c386f7400df.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F96%2Fa196d92ba1439a48bdc83cf2c5034d703396779d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ]
+  },
+  {
+    "name": "Regular Fit Textured-knit resort shirt",
+    "price": 1999,
+    "category": "Shirt",
+    "brand": "US.POLO",
+    "relevance":3,
+    "color": "Navy blue/Striped",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe9%2Ff1%2Fe9f11ecea19b77b59b92db2a80ff4ad7274d667c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc7%2F7f%2Fc77f6e5d2380b2a537999f60fa1b2fcd99bb7960.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F82%2F23%2F8223d769530dbb870ca5a20b00a9c600b42882a7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Lace resort shirt",
+    "price": 1499,
+    "category": "Shirt",
+    "brand": "US.POLO",
+    "relevance":3,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F62%2Fa6%2F62a66bce56ba39c873dd83d446032297a1269235.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffa%2F6c%2Ffa6cd8061a5a613cf75b1d3a7b8603f0c389e7ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F74%2Ff8%2F74f80a0547a7dcf65beb703a8bd403bd7db8afa6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Lyocell resort shirt",
+    "price": 1999,
+    "category": "Shirt",
+    "brand": "zara",
+    "relevance":3,
+    "color": "Light beige/Patterned",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fde%2Fad%2Fdead4b6ce456184edbeccd3b61e6611d431c5bff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2F9a%2Ff49a99789a071d6dd1644ad3c5d22702c92da81b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shirts_casual%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F39%2F54%2F395435c21cb1a4a5d2aab526975749d7ad763132.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Relaxed Fit Patterned resort shirt",
+    "price": 1499,
+    "category": "Shirt",
+    "brand": "zara",
+    "relevance":3,
+    "color": "Black/Kurt Cobain",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F30%2Fbe%2F30be2de6bc350c3bfa098ab80112ece3e4e616e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc2%2F72%2Fc272aa073ae4aec5de8cbd09ce12a2dd5d55487d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shirts_casual%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4f%2F69%2F4f69df8ed7ba0084d01fff4551c7c9c6a152a814.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Denim overshirt",
+    "price": 2999,
+    "category": "Shirt",
+    "brand": "zara",
+    "relevance":3,
+    "color": "Denim black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9e%2F1b%2F9e1b02cc3fe0afc73a054891151162b430802c5d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F5a%2F475a5400d8d275a58f780c47f6db7c8602a7e68c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbe%2F17%2Fbe174fd3d1b6076cc43b1e57cd3074de6410d629.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Twill shacket",
+    "price": 2299,
+    "category": "Shirt",
+    "brand": "H&M",
+    "relevance":3,
+    "color": "Dark brown",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6a%2F4d%2F6a4d64fb88cc0629c85559f710840bd8c67ac494.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9a%2F32%2F9a326a674d8098187b56c96e3355a1ab15b84d6e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fee%2Fce%2Feecebcb9b045b304b3b3bb9806568b211ac514df.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Loose Fit Twill overshirt",
+    "price": 2699,
+    "category": "Shirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "Beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0f%2Ff3%2F0ff3b2d51a3be52855add44d9d0616fe7ea2e9e6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5a%2F6d%2F5a6ded2e685f6683e2468ffff79f668747f04f91.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F76%2Fff%2F76ff20dd7344af01856e90ecd2584321f859a28e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Ribbed resort shirt",
+    "price": 2299,
+    "category": "Shirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "Brown",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8b%2F7e%2F8b7ee621d6da3c7a442fd9e94bf440a6ad05e3fd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe6%2F0d%2Fe60d67c7a996cf8291dd5785a5331c1d830d3c83.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1d%2F7b%2F1d7b4618a3b980951632ca39a3424ce484d607e3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Cargo trousers",
+    "price": 2999,
+    "relevance":2,
+    "color": "cream",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Trouser",
+    "brand": "H&M",
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F68%2Fa7%2F68a77934361a5e12973023d9e230460cc2cdf8f6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fad%2F0c%2Fad0c11040253f83640a929670ff33a0fd4dfb281.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fac%2Fa0%2Faca000b4b34d233ddeb4a58153c578fbfa169c5a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Linen-blend trousers",
+    "price": 2299,
+    "relevance":2,
+    "color": "Dark blue",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Trouser",
+    "brand": "H&M",
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F46%2Ffd%2F46fde676dd6acf6b3e17b971ada96cfc927a7669.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9b%2Fa8%2F9ba886446b5c4d3db361a828cc3a0367571689d4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2F4a%2F144a7c8a60fc7a767ca6ff403662b7afbed0d51c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ]
+  },
+  {
+    "name": "Loose Fit Nylon parachute trousers",
+    "price": 2299,
+    "relevance":2,
+    "color": "Dark beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Trouser",
+    "brand": "H&M",
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2Fb5%2Fc6b56a04cfb4da4cc31c38d1bfe6adbd65f845cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2Fb5%2Fc6b56a04cfb4da4cc31c38d1bfe6adbd65f845cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc9%2F81%2Fc98191c0aad0a2747a9e533d33f3040502a0ed2b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Loose Fit Cargo trousers",
+    "price": 2999,
+    "relevance":2,
+    "color": "Dark blue",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Trouser",
+    "brand": "H&M",
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F22%2Ff7%2F22f78c2e115f5b37ae79d732264488e6b7813b2a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F25%2F35%2F25355fe68367d1d448967434915473c65316d303.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F85%2F68%2F8568a06fbdde9acab167e27fdbec7df3b75d4dc3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Slim Fit Cropped suit trousers",
+    "price": 2699,
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Trouser",
+    "brand": "H&M",
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2F15%2F1415ce4bbd0242a70184de095aeb29bda30d8843.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1c%2Fce%2F1cce9f12f0d86f80408ceb19a9b6bbe6651f4f53.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F40%2F32%2F4032a9612801c7f0b3c84528c127eb0a9c501d8e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Slim Fit Cotton chinos",
+    "price": 1999,
+    "category": "Trouser",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb8%2F4f%2Fb84fad52343f6579f98ac932dae91806a74b5f99.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb8%2F4f%2Fb84fad52343f6579f98ac932dae91806a74b5f99.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F41%2F56%2F415629e98aaba314c453c0886eca012db38e02bc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Slim Fit trousers",
+    "price": 2299,
+    "category": "Trouser",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff0%2F23%2Ff023dc8de56549f3a1e0725c5503162a57eea134.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F89%2F90%2F8990582e934653fcdac99db25dab7100d4cb4424.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F04%2F1b%2F041bb509aca73025d1f8d394468fc50c25c6f8c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Slim Fit Cotton twill trousers",
+    "price": 1499,
+    "category": "Trouser",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Light beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc7%2F12%2Fc71238ea197603e0aa492223692431d388f664f9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2Fe0%2Ff3e062d1cf4210ab4b9e1645e4680dd7ffde2ed9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F06%2Fc5%2F06c5fdaed6759685f31373d6ae1d78d5005d0573.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]"
+    ]
+  },
+  {
+    "name": "Regular Fit Ripstop cargo trousers",
+    "price": 2999,
+    "category": "Trouser",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Light beige",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb2%2F71%2Fb27197295ef57841167b94b19c5efb5b37e5df1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F14%2F4b%2F144b7d290b10e2ea7757b67fa838398465d4e743.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0a%2F0a%2F0a0ad4d7b4030d57a693c9f1da255cd132eb9360.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Crease-leg trousers",
+    "price": 2999,
+    "category": "Trouser",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F85%2F06%2F850696ca11045aa29313e4cef1a4ce9940350526.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F89%2Fa7%2F89a74f85dd06761c4cefccde37cda28359c26839.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb2%2Fc9%2Fb2c983063e20185466e83e7de16c5be8838359b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Loose Fit Sweatshirt",
+    "price": 799,
+    "category": "Sweatshirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5c%2F28%2F5c287dcb9123f9ce1ab726a6e180c8a5fdc94348.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb3%2F73%2Fb3734ac6f3373bf2d23c939933508cde1c91777c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F92%2F7892f6d0a9e9281545de3c119930b4e0e95691a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Scuba sweatshirt",
+    "price": 2699,
+    "category": "Sweatshirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "Grey marl",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F76%2F1b%2F761b71f8c32c7e671f354f5a4014841cd0650c69.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F87%2F00%2F8700ccf93aadc1daab5464c7ea7cc3c17c1fac5c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2F78%2Fbc7839ab23c8326cc06bf6c2a6896505ed7ac27b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Regular Fit Sweatshirt",
+    "price": 1999,
+    "category": "Sweatshirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "White",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2Fd0%2Ff8d0f7301719aa2b58014e3273875f0d336ecf90.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2Fd0%2Ff8d0f7301719aa2b58014e3273875f0d336ecf90.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F71%2Fa5%2F71a5c35fc93982ac01103104aa7cefdda5c16ab0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "5-pack Regular Fit T-shirts",
+    "price": 1999,
+    "category": "Sweatshirt",
+    "brand": "H&M",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F70%2F4e%2F704e3fb1d47eae8c837fe50e76acb78b5dbf8ce8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6d%2F59%2F6d595c93d81898625b3a77324565626c0d7325be.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff7%2F4d%2Ff74d2364726b4b4966e08f7a676ae236fa9231d7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "2-pack Loose Fit sweatshirts",
+    "price": 1499,
+    "category": "Sweatshirt",
+    "brand": "US.POLO",
+    "relevance":2,
+    "color": "Light grey marl/Black",
+    "size": [
+      "S",
+      "XL",
+      "L"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2F80%2F5c8049cbee39dabc8ad066dbfd29e0e23c2a080d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa7%2F70%2Fa77080e95e69dd9bc4a2d9b7d23ac001a5466c15.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F16%2F68%2F166850b5c04f5f10c168a5c62fe382bd483622b1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Oversized Fit Cotton sweatshirt",
+    "price": 2299,
+    "category": "Sweatshirt",
+    "brand": "zara",
+    "relevance":2,
+    "color": "white",
+    "size": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8f%2F55%2F8f558306c54edcb0499b711dc4b7edbae4cc5570.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fba%2F2d%2Fba2d865a7b058587b1f95b487946f7f77f818d18.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F45%2F2b%2F452bfbedde40367acb492bcd6ed52f833ec85f2a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ]
+  },
+  {
+    "name": "Oversized Fit Printed sweatshirt",
+    "price": 1999,
+    "category": "Sweatshirt",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Black/South Dakota Canyons",
+    "size": [
+      "S",
+      "XL"
+    ],
+    "image": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2F25%2Fc9252f4999e49bdc6b31be2d0b05f16c3fb62454.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2F25%2Fc9252f4999e49bdc6b31be2d0b05f16c3fb62454.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2F25%2Fc9252f4999e49bdc6b31be2d0b05f16c3fb62454.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    ]
+  },
+  {
+    "name": "CHECK-TEXTURE SWEATSHIRT",
+    "price": 3590,
+    "category": "Sweatshirt",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Black",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://static.zara.net/assets/public/4944/e99c/56d342a8bfbe/da12ed29a74f/04087444807-a1/04087444807-a1.jpg?ts=1709114712923&w=1920",
+      "https://static.zara.net/assets/public/2d47/db05/91034412af81/36a55ab0859b/04087444807-e1/04087444807-e1.jpg?ts=1708965012302&w=563",
+      "https://static.zara.net/assets/public/56f6/7252/f9164b439e42/0b7a567b03bf/04087444807-p/04087444807-p.jpg?ts=1709114705812&w=563"
+    ]
+  },
+  {
+    "name": "POLO SWEATSHIRT",
+    "price": 3290,
+    "category": "Sweatshirt",
+    "brand": "zara",
+    "relevance":2,
+    "color": "Light Green",
+    "size": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "image": [
+      "https://static.zara.net/assets/public/66e1/d84a/0bc048e6b72a/3331ca03d595/02795405526-p/02795405526-p.jpg?ts=1706087385027&w=563",
+      "https://static.zara.net/assets/public/2781/7bba/993b4b16b962/265d695da582/02795405526-a2/02795405526-a2.jpg?ts=1706087388484&w=563",
+      "https://static.zara.net/assets/public/3961/1e59/ad784cba9428/9b2214690350/02795405526-e1/02795405526-e1.jpg?ts=1706093292374&w=563"
+    ]
+  },
+  {
+    "name": "CROPPED SWEATSHIRT WITH SLOGAN",
+    "price": 3590,
+    "category": "Sweatshirt",
+    "brand": "zara",
+    "relevance":3,
+    "color": "BEIGE / GREEN",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": [
+      "https://static.zara.net/assets/public/4221/7a4a/fb2646e9a87a/f2e74cda4328/01198404714-p/01198404714-p.jpg?ts=1707410159671&w=563",
+      "https://static.zara.net/assets/public/f04e/8f8c/7f1c4300a6db/ae9d5c5dfa0c/01198404714-e1/01198404714-e1.jpg?ts=1707403714117&w=563",
+      "https://static.zara.net/assets/public/0689/357d/33de414db859/3f5604f82da9/01198404714-e2/01198404714-e2.jpg?ts=1707403712063&w=563"
+    ]
+  }
+]
